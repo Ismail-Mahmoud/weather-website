@@ -42,4 +42,4 @@ Go to the localhost port you've specified (for example http://localhost:3000/)
 
 Enter your location to get the weather
 
-![weather](../weather.jpg)
+![weather](example.jpg)
