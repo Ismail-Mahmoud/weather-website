@@ -1,10 +1,10 @@
 # Weather website
 A web application interacting with `weatherstack` and `mapbox` APIs to get the current weather of a location you provide
 
-# Requirements
+## Requirements
 [Node.js](https://nodejs.org/)
 
-# Installation
+## Installation
 
 Clone this repository to your local machine
 ```bash
@@ -21,7 +21,7 @@ Install dependencies
 npm install
 ```
 
-# Configuration
+## Configuration
 Go to [weatherstack](https://weatherstack.com/) and sign up to get your API key
 
 Go to [mapbox](https://www.mapbox.com/) and sign up to get your API key
@@ -31,7 +31,7 @@ Run this command to set the localhost port and the API keys you've got
 npm run config
 ```
 
-# Getting started
+## Getting started
 
 Run this command
 ```bash
