@@ -15,6 +15,7 @@ Go to the project directory
 ```bash
 cd weather-website
 ```
+
 Install dependencies
 ```bash
 npm install
@@ -32,6 +33,13 @@ npm run config
 
 # Getting started
 
+Run this command
+```bash
+npm start
+```
+
 Go to the localhost port you've specified (for example http://localhost:3000/)
 
 Enter your location to get the weather
+
+![weather](../weather.jpg)
